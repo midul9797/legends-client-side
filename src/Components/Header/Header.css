@@ -1,0 +1,9 @@
+.header 
+{
+    text-align: center;
+    border: 15px solid cyan;
+}
+.header span 
+{
+    color: cyan;
+}
