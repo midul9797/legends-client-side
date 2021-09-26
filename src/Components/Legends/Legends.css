@@ -1,0 +1,39 @@
+.legend
+{
+    margin: 10px;
+    padding: 10px;
+    background-color: cyan;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.legend img 
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.legend-details 
+{
+    padding-left: 30px;
+}
+.legend-details p 
+{
+    text-align: left;
+}
+.legend-details p span 
+{
+    padding-left: 10px;
+    font-weight: bold;
+}
+.button 
+{
+    padding: 10px 35px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+
+
+}

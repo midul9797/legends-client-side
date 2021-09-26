@@ -1,18 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import Legends from '../Legends/Legends';
+import Cart from '../Cart/Cart';
 import './Hire.css';
 const Hire = () => {
     const [legends, setLegends] = useState([]);
-    useEffect(()=> {
-        fetch('https://raw.githubusercontent.com/midul9797/my-portfolio/main/legends.json')
-        .then(res => res.json())
-        .then(data => setLegends(data))
+    const [cart, setCart] = useState([]);
+    useEffect(() => {
+        fetch('./legends.json')
+            .then(res => res.json())
+            .then(data => setLegends(data))
     }, []);
+    const handleHire = legend => {
+        const newCart = [...cart, legend];
+        setCart(newCart);
+    }
     return (
-        <div>
-           {
-               legends.map(legend => console.log(legend))
-           } 
+        <div className="hire">
+            <div className="legends">
+                {
+                    legends.map(legend => <Legends key={legend.id} legend={legend} click={handleHire}></Legends>)
+                }
+            </div>
+            <div>
+                <Cart cart={cart}></Cart>
+            </div>
+
         </div>
     );
 };

@@ -1,12 +1,12 @@
-
+import Header from './Components/Header/Header'
+import Hire from './Components/Hire/Hire'
 import './App.css';
-import Header from './Components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <Header>
-      </Header>
+      <Header></Header>
+      <Hire></Hire>
     </div>
   );
 }
