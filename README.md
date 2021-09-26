@@ -1,5 +1,5 @@
 # Legends
-### Live Site : 
+### Live Site : https://a8-legends.netlify.app/
 
 ## About Legends:
 
