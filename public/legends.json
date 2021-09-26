@@ -6,7 +6,9 @@
     "country": "South Africa",
     "profession": "Software Developer",
     "salary": 100000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+    "facebook": "https://www.facebook.com/TheElonmusk/",
+    "instagram": "https://www.instagram.com/elonmusk/?hl=en"
   },
   {
     "id" : 2,
@@ -15,7 +17,9 @@
     "country": "Bangladesh",
     "profession": "Web Developer",
     "salary": 50000,
-    "image": "https://miro.medium.com/fit/c/262/262/1*A8IqmApGUhvmD6A3A1TXBw.png"
+    "image": "https://miro.medium.com/fit/c/262/262/1*A8IqmApGUhvmD6A3A1TXBw.png",
+    "facebook": "https://www.facebook.com/JhankarMahbub",
+    "instagram": "https://www.instagram.com/jhankarmahbub/?hl=en"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "country": "America",
     "profession": "Entrepreneur",
     "salary": 75000,
-    "image": "https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg"
+    "image": "https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg",
+    "facebook": "#",
+    "instagram": "https://www.instagram.com/jeffbezos/?hl=en"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "country":"America",
     "profession": "Software Developer",
     "salary": 60000,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Zuckerberg_F8_2019_Keynote_%2847721886632%29_%28cropped%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Zuckerberg_F8_2019_Keynote_%2847721886632%29_%28cropped%29.jpg",
+    "facebook": "https://www.facebook.com/zuck",
+    "instagram": "https://www.instagram.com/zuck/?hl=en"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "country": "America",
     "profession": "Software Developer",
     "salary": 90000,
-    "image": "https://cdn.bitlanders.com/users/galleries/512660/512660_gallery_56c788a770f24_png_fa_rszd.jpg"
+    "image": "https://cdn.bitlanders.com/users/galleries/512660/512660_gallery_56c788a770f24_png_fa_rszd.jpg",
+    "facebook": "https://www.facebook.com/BillGates",
+    "instagram": "https://www.instagram.com/thisisbillgates/?hl=en"
   },
   {
     "id": 6,
@@ -51,16 +61,20 @@
     "country": "America",
     "profession": "Computer Scientist",
     "salary": 95000,
-    "image": "https://d1oqwsnd25kjn6.cloudfront.net/production/curio_primary_images/12566/original/Feb._25_2018-SteveJobs.jpg?1518809726"
+    "image": "https://d1oqwsnd25kjn6.cloudfront.net/production/curio_primary_images/12566/original/Feb._25_2018-SteveJobs.jpg?1518809726",
+    "facebook": "#",
+    "instagram": "#"
   },
   {
     "id": 7,
-    "name": "Linux Torvalds",
+    "name": "Linus Torvalds",
     "founder": "Linux",
     "country": "Finland",
     "profession": "Software Engineer",
     "salary": 110000,
-    "image": "https://tadviser.com/images/thumb/7/74/LinusTorvalds_900.jpg/840px-LinusTorvalds_900.jpg"
+    "image": "https://tadviser.com/images/thumb/7/74/LinusTorvalds_900.jpg/840px-LinusTorvalds_900.jpg",
+    "facebook": "#",
+    "instagram": "#"
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "country": "Bangladesh",
     "profession": "Software Developer",
     "salary": 50000,
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2021/01/fahim-saleh.jpg?quality=90&strip=all"
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2021/01/fahim-saleh.jpg?quality=90&strip=all",
+    "facebook": "https://www.facebook.com/fahimsaleh",
+    "instagram": "https://www.instagram.com/fahims/?hl=en"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "country": "America",
     "profession": "Computer Scientist",
     "salary": 75000,
-    "image": "https://cdn.idolbirthdays.net/medias/profile/201801/travis-kalanick.jpg"
+    "image": "https://cdn.idolbirthdays.net/medias/profile/201801/travis-kalanick.jpg",
+    "facebook": "https://www.facebook.com/traviskal",
+    "instagram": "https://www.instagram.com/traviskal/?hl=en"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "country": "Russia",
     "profession": "Software Developer",
     "salary": 60000,
-    "image": "https://www.financemagnates.com/wp-content/uploads/2020/12/Vitalik-Buterin.jpg"
+    "image": "https://www.financemagnates.com/wp-content/uploads/2020/12/Vitalik-Buterin.jpg",
+    "facebook": "https://www.facebook.com/VitalikButerinCa",
+    "instagram": "https://www.instagram.com/buterin___official/?hl=en"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "country":"America",
     "profession":"Computer Scientist",
     "salary": 75000,
-    "image": "https://gossipgist.com/uploads/27916/larry-page-biography.png"
+    "image": "https://gossipgist.com/uploads/27916/larry-page-biography.png",
+    "facebook": "https://www.facebook.com/larry.page.94617999",
+    "instagram": "https://www.instagram.com/_larry_page_/"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "country": "America",
     "profession":"Software Engineer",
     "salary": 80000,
-    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d8b0d2022254b0008e16873%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D908%26cropX2%3D3880%26cropY1%3D1140%26cropY2%3D4114"
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d8b0d2022254b0008e16873%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D908%26cropX2%3D3880%26cropY1%3D1140%26cropY2%3D4114",
+    "facebook": "https://www.facebook.com/BrianActonofficial/",
+    "instagram": "#"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "country": "America",
     "profession": "Computer Programmer",
     "salary": 60000,
-    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F58c1a2eba7ea431f321ad96b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D63%26cropX2%3D733%26cropY1%3D13%26cropY2%3D683"
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F58c1a2eba7ea431f321ad96b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D63%26cropX2%3D733%26cropY1%3D13%26cropY2%3D683",
+    "facebook": "https://www.facebook.com/systrom",
+    "instagram": "https://www.instagram.com/kevin/"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "country": "America",
     "profession": "Software Developer",
     "salary": 70000,
-    "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgxMTA3NjcxMzM0NjU5MTYw/gettyimages-1146354927.jpg"
+    "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgxMTA3NjcxMzM0NjU5MTYw/gettyimages-1146354927.jpg",
+    "facebook": "#",
+    "instagram": "https://www.instagram.com/jack/?hl=en"
   },
   {
     "id": 15,
@@ -132,6 +160,8 @@
     "country": "Bangladesh",
     "profession": "Software Developer",
     "salary": 90000,
-    "image": "https://images.thequint.com/thequint%2F2019-02%2Fabc7abb4-acea-4a6f-8826-b13e37eaf446%2Fjawed_karim.jpg?auto=format%2Ccompress"
+    "image": "https://images.thequint.com/thequint%2F2019-02%2Fabc7abb4-acea-4a6f-8826-b13e37eaf446%2Fjawed_karim.jpg?auto=format%2Ccompress",
+    "facebook": "#",
+    "instagram": "#"
   }
 ]

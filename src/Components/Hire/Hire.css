@@ -1,11 +1,14 @@
+/* Hire Component CSS */
 .hire 
 {
     display: grid;
     grid-template-columns: 3fr 1fr;
+    margin-top: 50px;
 }
 .legends
 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
+    margin-left: 20px;
 }

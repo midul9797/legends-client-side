@@ -1,15 +1,21 @@
+// -------------------------
+// |   Component: Hire     |
+// -------------------------
 import React, { useEffect, useState } from 'react';
 import Legends from '../Legends/Legends';
 import Cart from '../Cart/Cart';
 import './Hire.css';
 const Hire = () => {
+    // useState
     const [legends, setLegends] = useState([]);
     const [cart, setCart] = useState([]);
+    // Loading Data using useEffect
     useEffect(() => {
         fetch('./legends.json')
             .then(res => res.json())
             .then(data => setLegends(data))
     }, []);
+    //setCart After click Hire
     const handleHire = legend => {
         const newCart = [...cart, legend];
         setCart(newCart);
